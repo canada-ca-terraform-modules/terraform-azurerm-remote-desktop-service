@@ -114,5 +114,5 @@ variable "storage_os_disk" {
   }
 }
 variable "DSC_URL" {
-  default = "https://raw.githubusercontent.com/canada-ca-terraform-modules/terraform-azurerm-remote-desktop-service/20190801.1/DSCConfiguration.zip"
+  default = "https://raw.githubusercontent.com/canada-ca-terraform-modules/terraform-azurerm-remote-desktop-service/20190801.1/DSC/Configuration.zip"
 }
