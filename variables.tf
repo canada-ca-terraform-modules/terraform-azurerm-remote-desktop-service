@@ -45,7 +45,7 @@ variable "vnetResourceGroupName" {
 }
 
 variable "dnsServers" {
-  default = ""
+  default = null
 }
 
 variable "externalfqdn" {
